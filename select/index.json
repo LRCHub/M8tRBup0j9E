@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "岸田教団&THE明星ロケッツ - HIGHSCHOOL OF THE DEAD（Audio）",
+  "base_artist": "岸田教団&THE明星ロケッツ",
+  "createdAt": "2026-03-26T14:09:02.841489Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HIGHSCHOOL OF THE DEAD",
+      "artist": "岸田教団 & THE 明星ロケッツ",
+      "has_synced": false,
+      "path": "select/pl_01_HIGHSCHOOL_OF_THE_DEAD_岸田教団_&_THE_明星ロケッツ.txt"
+    }
+  ]
+}
